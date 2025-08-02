@@ -1,0 +1,7 @@
+<root BTCPP_format="4">
+  <BehaviorTree ID="Test">
+      <!-- action_name is the name of the action server's action -->
+      <!-- <SwitchController action_name="fibonacci"/> -->
+      <Print xyz="1 2 3"/>
+  </BehaviorTree>
+</root>
